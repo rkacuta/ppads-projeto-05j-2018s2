@@ -6,5 +6,5 @@
 * Bruno Gaete
 * Felipe Macena
 * Rafael Kacuta
-* Solance Alvarenga
+* Solange Alvarenga
 * Aluno 5
