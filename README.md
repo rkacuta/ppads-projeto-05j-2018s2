@@ -3,8 +3,8 @@
 
 ### Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Bruno Gaete
+* Felipe Macena
+* Rafael Kacuta
+* Solance Alvarenga
 * Aluno 5
