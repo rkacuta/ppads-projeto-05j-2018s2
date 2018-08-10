@@ -4,7 +4,8 @@
 ### Integrantes do grupo:
 
 * Bruno Gaete
+* Diego
 * Felipe Macena
 * Rafael Kacuta
 * Solange Alvarenga
-* Aluno 5
+
