@@ -10,7 +10,7 @@
 
 ## Como as pessoas/empresas vão usar este software?
 
-1)O usuário, por meio de uma página web, acessa a aplicação e se cadastra para ter acesso a funcionalidades.
+1)O cliente, por meio de uma página web, acessa a aplicação e se cadastra para ter acesso a funcionalidades.
 
 2)Usuários administradores poderão logar-se para realizar eventuais manutenções no sistema.
 
