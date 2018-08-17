@@ -10,13 +10,8 @@
 
 ## Como as pessoas/empresas vão usar este software?
 
->> Contar uma história de como o sistema irá entrar em operação. Por exemplo:
->> 1) Administrador cadastra funcionários da clínica.
->> 2) Cliente acessa aplicação pela web e se inscreve.
->> 3) etc.
-
-1. Através de página Web.
-
+1)O usuário, por meio de uma página web, acessa a aplicação e se cadastra para ter acesso a funcionalidades.
+2)Usuários administradores poderão logar-se para realizar eventuais manutenções no sistema.
 
 ## Quais linguagens/tecnologias serão utilizadas para implementar este software?
 
