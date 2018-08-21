@@ -1,8 +1,13 @@
 # Casos de uso
 
-## CDU001
-
+## CDU001: Marcar consulta
 ### Fluxo principal
+- Cliente acessa página web
+- Cliente realiza login
+- Cliente acessa aba marcar consulta
+- Sistema mostra lista de consulta disponiveis (nome do veterinário, tipo de animal, data e hora)
+- Cliente escolhe a consulta que deseja marcar
+- Cliente confirma escolha
 
 ## CDU002
 
