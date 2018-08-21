@@ -9,9 +9,12 @@
 - Cliente escolhe a consulta que deseja marcar
 - Cliente confirma escolha
 
-## CDU002
-
+## CDU002: Visualizar consulta
 ### Fluxo principal
+- Cliente acessa página web
+- Cliente realiza login
+- Cliente acessa aba visualizar consulta
+- Sistema mostra lista de consultas marcadas
 
 ## CDU003
 
