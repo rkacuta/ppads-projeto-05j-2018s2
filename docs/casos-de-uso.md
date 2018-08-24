@@ -39,3 +39,11 @@
 - Cliente acessa aba verificar datas disponiveis
 - Sistema mostra as datas livres
 
+## CDU006: Deletar veterninário
+### Fluxo principal
+- Usuário admin acessa página web
+- Usuário admin realiza login
+- Usuário admin acessa aba lista de veterinários
+- Sistema mostra a lista de veterinários com seus respectivos IDs
+- Usuário admin digita o ID do veterinário que será excluido
+- Usuário admin confirma escolha
