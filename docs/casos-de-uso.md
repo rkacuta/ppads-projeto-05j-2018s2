@@ -49,6 +49,15 @@
 - Usuário admin confirma escolha
 
 ## SPRINT 1
+### Marcar consulta - Fluxo alternativo:
+- Cliente acessa aba marcar consulta
+- Sistema mostra lista de consulta disponiveis (nome do veterinário, tipo de animal, data e hora)
+- Cliente escolhe a consulta que deseja marcar
+- Cliente confirma escolha
+- O cliente digitou N ao invés de S
+- Sistema exibe mensagem de "Consulta marcada"
+- Sistema mostra lista de consulta disponiveis (nome do veterinário, tipo de animal, data e hora)
+
 ### Cancelar consulta - Fluxo alternativo:
 - Sistema mostra lista de consultas marcadas
 - Cliente escolhe a consulta que deseja cancelar
