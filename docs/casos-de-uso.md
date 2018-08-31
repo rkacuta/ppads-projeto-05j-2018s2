@@ -49,7 +49,7 @@
 - Usuário admin confirma escolha
 
 ## SPRINT 1
-## Cancelar consulta - Fluxo alternativo:
+### Cancelar consulta - Fluxo alternativo:
 - Sistema mostra lista de consultas marcadas
 - Cliente escolhe a consulta que deseja cancelar
 - Cliente confirma escolha 
