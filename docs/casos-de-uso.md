@@ -47,3 +47,11 @@
 - Sistema mostra a lista de veterinários com seus respectivos IDs
 - Usuário admin digita o ID do veterinário que será excluido
 - Usuário admin confirma escolha
+
+## SPRINT 1
+## Cancelar consulta - Fluxo alternativo:
+- Sistema mostra lista de consultas marcadas
+- Cliente escolhe a consulta que deseja cancelar
+- Cliente confirma escolha 
+- O cliente digitou N ao invés de S
+- Sistema mostra lista de consultas marcadas
