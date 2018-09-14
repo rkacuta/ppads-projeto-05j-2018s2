@@ -55,7 +55,7 @@
 - Cliente escolhe a consulta que deseja marcar
 - Cliente confirma escolha
 - O cliente digitou N ao invés de S
-- Sistema exibe mensagem de "Consulta marcada"
+- Sistema exibe mensagem de "Consulta cancelada"
 - Sistema mostra lista de consulta disponiveis (nome do veterinário, tipo de animal, data e hora)
 
 ### Cancelar consulta - Fluxo alternativo:
