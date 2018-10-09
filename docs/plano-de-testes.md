@@ -27,9 +27,5 @@ Objetivo: Testar quando o usuário usa campos inválidos durante a marcação de
 Motivação: O sistema só deve permitir marcar consultas com os campos devidamente preenchidos.
 
 8 -Tipo de Teste: Não Funcional.
-Objetivo: Testar quando o usuário usa um id inválido para visualizar consulta.
-Motivação: O sistema deve permitir visualização de consultas com o id correto.
-
-9 -Tipo de Teste: Não Funcional.
 Objetivo: Testar quando o administrador usa um id inválido para cancelar consulta.
 Motivação: O sistema deve permitir cancelar consulta apenas com o campo preenchido corretamente.
