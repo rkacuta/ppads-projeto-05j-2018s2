@@ -6,19 +6,19 @@ Descrição: Usuário deve clicar no botão marcar consulta, então informar um 
 2 -Tipo de Teste: Funcional.
 Objetivo: Testar se o usuário consegue visualizar listas de consultas.
 Motivação: O sistema deve permitir a visualização de consultas.
-Descrição: Usuário deve realizar o login e clicar no botão de listar, que exibirá a lista de consultas.
+Descrição: Usuário deve realizar o login comono teste 1 e clicar no botão de listar, que exibirá a lista de consultas.
 
 3 -Tipo de Teste: Funcional.
 Objetivo: Testar se o adminstrador consegue logar no sistema com sucesso.
 Motivação: O sistema deve permitir que o usuário administrador consiga realizar o login.
-Descrição: Administrador coloca login admin e senha admin nos campos, clicando no botão logar, caso confirme, será enviado a página de administrador.
+Descrição: Administrador coloca login admin e senha admin nos campos, clicando no botão logar, caso confirme, aparecerá uma mensagem dizendo "Bem vindo administrador" e o usuário será enviado a página de administrador.
 
 4 -Tipo de Teste: Funcional.
 Objetivo: Testar se o administrador consegue cancelar consulta.
 Motivação: O sistema deve permitir a exclusão de consultas realizadas.
-Descrição: Administrador realiza o seu login, na suá pagina, deve preencher o id da consulta que deseja excluir (ex:1),então será mostrado uma mensagem pedindo para confirmar essa exclusão, caso clique em "sim", caso confirme, a consulta será apagada.
+Descrição: Administrador realiza o seu login como no teste 2, na suá pagina, deve preencher o id da consulta que deseja excluir (ex:1),então será mostrado uma mensagem pedindo para confirmar essa exclusão, caso clique em "sim", caso confirme, a consulta será apagada.
 
 5 -Tipo de Teste: Não Funcional.
 Objetivo: Testar quando o administrador usa um id inválido para cancelar consulta.
 Motivação: O sistema deve permitir cancelar consulta apenas com o campo preenchido corretamente.
-Descrição: Administrador realiza login, na sua página, no campo ID deve inserir um número que não exista na lista de consultas (ex:999), então o sistema deve mostrar a mensagem "id não existe".
+Descrição: Administrador realiza login como no teste 2, na sua página, no campo ID deve inserir um número que não exista na lista de consultas (ex:999), então o sistema deve mostrar a mensagem "id não existe".
