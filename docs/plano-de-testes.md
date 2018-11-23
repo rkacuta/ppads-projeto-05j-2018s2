@@ -1,24 +1,50 @@
 1 -Tipo de Teste: Funcional.
 Objetivo: Testar se o usuário consegue logar no sistema.
 Motivação: O sistema deve permitir o login de usuários registrados
-Descrição: Usuário deve clicar no botão marcar consulta, então informar um login e senha já existente nos campos indicados (ex:user como usuário e senha 123) e clicar no botão login, caso confirme, sistema enviará uma mensagem de bem vindo + "nome do usuário".
+Passos:
+-Clicar na aba "Marcar consulta".
+-Sistema ira para a página "marcar.html"
+-Preencher o campo usuário com 123
+-Preencher o campo senha com 123.
+-Clicar no botão login.
+-Será devolvida mensagem "Bem Vindo" + nome do login se os dados estiverem corretos.
 
 2 -Tipo de Teste: Funcional.
 Objetivo: Testar se o usuário consegue visualizar listas de consultas.
 Motivação: O sistema deve permitir a visualização de consultas.
-Descrição: Usuário deve realizar o login comono teste 1 e clicar no botão de listar, que exibirá a lista de consultas.
+Passos:
+- Clicar no botão "Listar consultas"
+- Irá aparecer id, datahora, veterinário, animal, hora, unidade de cada consulta.
 
 3 -Tipo de Teste: Funcional.
 Objetivo: Testar se o adminstrador consegue logar no sistema com sucesso.
 Motivação: O sistema deve permitir que o usuário administrador consiga realizar o login.
-Descrição: Administrador coloca login admin e senha admin nos campos, clicando no botão logar, caso confirme, aparecerá uma mensagem dizendo "Bem vindo administrador" e o usuário será enviado a página de administrador.
+Passos:
+-Clicar na aba "Marcar consulta".
+-Sistema ira para a página "admLogin.html"
+-Preencher o campo usuário com admin.
+-Preencher o campo senha com admin.
+-Clicar no botão login.
+-Caso os dados estiverem corretos, será devolvida mensagem "Logado com sucesso" e o usuário será enviado a página "adm.html".
 
 4 -Tipo de Teste: Funcional.
 Objetivo: Testar se o administrador consegue cancelar consulta.
 Motivação: O sistema deve permitir a exclusão de consultas realizadas.
-Descrição: Administrador realiza o seu login como no teste 2, na suá pagina, deve preencher o id da consulta que deseja excluir (ex:1),então será mostrado uma mensagem pedindo para confirmar essa exclusão, caso clique em "sim", caso confirme, a consulta será apagada.
+Passos:
+-Repetir teste 3
+-Preencher o campo ID com uma consulta existente (ex: 1)
+-Clicar em "cancelar consulta"
+-Aparecerá uma caixa de texto perguntando se deseja cancelar consulta.
+-Clicar em "Sim".
+-Mensagem "Consulta cancelada" será enviada
 
 5 -Tipo de Teste: Não Funcional.
 Objetivo: Testar quando o administrador usa um id inválido para cancelar consulta.
 Motivação: O sistema deve permitir cancelar consulta apenas com o campo preenchido corretamente.
-Descrição: Administrador realiza login como no teste 2, na sua página, no campo ID deve inserir um número que não exista na lista de consultas (ex:999), então o sistema deve mostrar a mensagem "id não existe".
+Passos:
+-Repetir teste 3
+-Preencher o campo ID com uma consulta não-existente (ex: 999)
+-Clicar em "cancelar consulta"
+-Aparecerá uma caixa de texto perguntando se deseja cancelar consulta.
+-Clicar em "Não".
+-Mensagem "Consulta não existe" será enviada
