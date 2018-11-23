@@ -31,12 +31,12 @@ Passos:
 Objetivo: Testar se o administrador consegue cancelar consulta.
 Motivação: O sistema deve permitir a exclusão de consultas realizadas.
 Passos:
--Repetir teste 3
--Preencher o campo ID com uma consulta existente (ex: 1)
--Clicar em "cancelar consulta"
--Aparecerá uma caixa de texto perguntando se deseja cancelar consulta.
--Clicar em "Sim".
--Mensagem "Consulta cancelada" será enviada
+- Repetir teste 3
+- Preencher o campo ID com uma consulta existente (ex: 1)
+- Clicar em "cancelar consulta"
+- Aparecerá uma caixa de texto perguntando se deseja cancelar consulta.
+- Clicar em "Sim".
+- Mensagem "Consulta cancelada" será enviada
 
 5 -Tipo de Teste: Não Funcional.
 Objetivo: Testar quando o administrador usa um id inválido para cancelar consulta.
