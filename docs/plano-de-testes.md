@@ -20,7 +20,7 @@ Passos:
 Objetivo: Testar se o adminstrador consegue logar no sistema com sucesso.
 Motivação: O sistema deve permitir que o usuário administrador consiga realizar o login.
 Passos:
-- Clicar na aba "Marcar consulta".
+- Clicar na aba "Administrador".
 - Sistema ira para a página "admLogin.html"
 - Preencher o campo usuário com admin.
 - Preencher o campo senha com admin.
